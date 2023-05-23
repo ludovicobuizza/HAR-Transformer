@@ -1,0 +1,12 @@
+
+.idea/
+
+.DS_Store
+
+src/__pycache__/
+
+src/data_handling/__pycache__/
+
+src/trainer/__pycache__/
+
+src/transformer/__pycache__/
